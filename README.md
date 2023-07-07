@@ -7,7 +7,7 @@
 ## 功能特點
 
 - 使用Html、Css / Sass和JavaScript編寫。
-- 使用[Font Awesome 5](https://fontawesome.com/v5/search)圖標和[Freepik](https://www.freepik.com)圖片。
+- 使用[Font Awesome 5](https://fontawesome.com/v5/search)圖標、[Userpics](https://userpics.craftwork.design)頭像和[Freepik](https://www.freepik.com)圖片。
 - 可以在[此處](https://pardnchiu.github.io/website-template-2/)進行預覽。
 - 可以在[GitHub](https://github.com/pardnchiu/website-template-2)上找到源碼。
 
