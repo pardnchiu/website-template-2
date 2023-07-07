@@ -1,0 +1,9 @@
+# 忽略所有.DS_Store
+.DS_Store
+# 忽略所有.scss
+*.scss
+# 忽略所有.js 僅保留.min.js
+*.js
+!*.min.js
+# 忽略vscode
+*.code-workspace
