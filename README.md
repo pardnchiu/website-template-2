@@ -1,6 +1,6 @@
 # Website Template 網站模板 2
 
-*於<time datetime="2023-07-07">2023/07/07</time>重新上傳*
+*於<time datetime="2023-07-07">2023/07/07</time>清除Commits*
 
 ![邱敬幃 - 帕登國際有限公司 - Website Template 網站模板 2](./image/preview.jpg)
 
